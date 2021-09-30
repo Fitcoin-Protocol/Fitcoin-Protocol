@@ -42,7 +42,7 @@ We're gonna mention some Open Source projects we currently use for our Developme
 
 ## Development
 
-Do you want to be a contributer? Awesome!
+Do you want to be a contributer? Awesome!<br>
 Unfortunately it is not possible to change the code of a contract, but you can always contribute
 to the documentation and future repositories for our SDKs.
 
